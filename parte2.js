@@ -1,3 +1,3 @@
-function suma (a, b){
+function multiplicacion (a, b){
     return a * b
 };
